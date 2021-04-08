@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Qais AbuRayyan @qaisma
-- 👀 I’m interested in Technology, and Web development in specific
+- 👀 I’m interested in Technology, Web development in specific
 - 🌱 I’m currently learning .Net Core framework, as well as, some front-end libraries and frameworks, like React and NodeJS
 - 📫 You can send me an email via iamqays@gmail.com or visit my LinkedIn profile on https://www.linkedin.com/in/qaisaburayyan/ 
 
